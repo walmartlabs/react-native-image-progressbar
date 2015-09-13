@@ -1,0 +1,18 @@
+{
+  "name": "react-native-image-progress",
+  "version": "0.0.1",
+  "description": "An image based progress bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Herrington <jherrington@walmartlabs.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-cropping": "0.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/walmartreact/react-native-image-progress.git"
+  }
+}
