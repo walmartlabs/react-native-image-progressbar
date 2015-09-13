@@ -1,5 +1,5 @@
 {
-  "name": "react-native-image-progress",
+  "name": "react-native-image-progressbar",
   "version": "0.0.1",
   "description": "An image based progress bar",
   "main": "index.js",
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/walmartreact/react-native-image-progress.git"
+    "url": "https://github.com/walmartreact/react-native-image-progressbar.git"
   }
 }

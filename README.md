@@ -8,7 +8,7 @@ An image based react-native progress bar:
 And sample sample code:
 
 ```
-var ProgressBar = require('react-native-image-progress');
+var ProgressBar = require('react-native-image-progressbar');
 ```
 
 Then:
@@ -39,5 +39,5 @@ Then:
 ## Installation
 
 ```
-npm install react-native-image-progress --save
+npm install react-native-image-progressbar --save
 ```
