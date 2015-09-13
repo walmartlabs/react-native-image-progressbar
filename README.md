@@ -8,6 +8,12 @@ An image based react-native progress bar:
 And sample sample code:
 
 ```
+var ProgressBar = require('react-native-image-progress');
+```
+
+Then:
+
+```
 <ProgressBar
   source={require('image!flowers')}
   width={300}
@@ -33,5 +39,5 @@ And sample sample code:
 ## Installation
 
 ```
-npm install react-native-image-progress
+npm install react-native-image-progress --save
 ```
